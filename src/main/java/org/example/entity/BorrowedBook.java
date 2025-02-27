@@ -22,8 +22,6 @@ public class BorrowedBook {
     @Temporal(TemporalType.DATE)
     private Date borrowDate;
 
-    public BorrowedBook(Student student, Book book, Date date) {
-    }
 
     public Date getBorrowDate() {
         return borrowDate;

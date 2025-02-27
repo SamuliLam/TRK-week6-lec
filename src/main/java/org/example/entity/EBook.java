@@ -13,5 +13,4 @@ public class EBook extends Book {
         this.downloadUrl = downloadUrl;
     }
 
-    // Getters and Setters
 }
